@@ -46,7 +46,7 @@ Apaixonado por resolver problemas desde a base — ponteiros, memória e tudo ma
 
 ## 📬 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/arturvazosorio](https://www.linkedin.com/in/artur-vitor-antela-vaz-osorio-12b247352/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-vitor-antela-vaz-osorio-12b247352/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArturVazOsorio)
 
 ---
