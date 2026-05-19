@@ -26,9 +26,9 @@ Apaixonado por resolver problemas desde a base — ponteiros, memória e tudo ma
 
 ## 📂 Projetos da 42
 
-| Projeto | Descrição | Status |
-|---------|-----------|--------|
-| [libft](https://github.com/ArturVazOsorio/42-libft) | Recriação das funções da libc em C | Em andamento |
+| Projeto | Descrição | Status | Score |
+|---------|-----------|--------|-------|
+| [libft](https://github.com/ArturVazOsorio/42-libft) | Recriação das funções da libc em C | ✅ Complete | 100/100|
 |[ft_printf](https://github.com/ArturVazOsorio/42-ft_printf) |Recriação da função printf | Em andamento |
 
 ---
