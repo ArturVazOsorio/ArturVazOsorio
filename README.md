@@ -40,7 +40,7 @@ Apaixonado por resolver problemas desde a base — ponteiros, memória e tudo ma
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArturVazOsorio&theme=react-dark" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturVazOsorio&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ArturVazOsorio&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
