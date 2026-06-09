@@ -29,7 +29,8 @@ Apaixonado por resolver problemas desde a base — ponteiros, memória e tudo ma
 | Projeto | Descrição | Status | Score |
 |---------|-----------|--------|-------|
 | [libft](https://github.com/ArturVazOsorio/42-libft) | Recriação das funções da libc em C | ✅ Complete | 100/100|
-|[ft_printf](https://github.com/ArturVazOsorio/42-ft_printf) |Recriação da função printf | ✅ Complete | 100/125 |
+|[ft_printf](https://github.com/ArturVazOsorio/42-ft_printf) |Recriação da função printf | ✅ Complete | 100/100 |
+|[get_next_line](https://github.com/ArturVazOsorio/42-get_next_line) | Recriação da funcao GNL | ✅ Complete | 125/100 |
 
 ---
 
