@@ -38,7 +38,7 @@ Apaixonado por resolver problemas desde a base — ponteiros, memória e tudo ma
 
 <div align="center">
 
-![ArturVazOsorio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturVazOsorio&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArturVazOsorio&theme=react-dark" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturVazOsorio&layout=compact&theme=tokyonight&hide_border=true)
 
