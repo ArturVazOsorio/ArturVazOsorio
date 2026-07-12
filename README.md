@@ -31,7 +31,7 @@ Apaixonado por resolver problemas desde a base — ponteiros, memória e tudo ma
 | [libft](https://github.com/ArturVazOsorio/42-libft) | Recriação das funções da libc em C | ✅ Complete | 100/100|
 |[ft_printf](https://github.com/ArturVazOsorio/42-ft_printf) |Recriação da função printf | ✅ Complete | 100/100 |
 |[get_next_line](https://github.com/ArturVazOsorio/42-get_next_line) | Recriação da funcao GNL | ✅ Complete | 125/100 |
-
+|[push_swap](https://github.com/ArturVazOsorio/42-push_swap) | Implementação de algoritimos de ordenação | ✅ Complete | 100/100 |
 ---
 
 ## 📊 GitHub Stats
